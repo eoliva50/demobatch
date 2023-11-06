@@ -1,5 +1,5 @@
-import axios from 'axios';
-import { faker } from '@faker-js/faker';
+import axios from 'axios'
+import { faker } from '@faker-js/faker'
 
 const api = axios.create({
     baseURL: 'http://localhost:3000',
